@@ -1,5 +1,7 @@
 .section1{
 padding: 1em;
+width: fit-content;
+max-width: fit-content;
 align-items: baseline;
 flex-direction: column;
     display: flex;
